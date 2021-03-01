@@ -4,7 +4,9 @@
 
 ## Vim
 ### marks
+
 `ma` - mark location "a"
+
 `'a` - jump to mark "a"
 
 ### lines
