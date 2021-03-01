@@ -1,8 +1,8 @@
+
+## Vim
 `ctrl + P` - paste line above
 
 `d/foo` - delete till word foo
-
-## Vim
 ### marks
 
 `ma` - mark location "a"
